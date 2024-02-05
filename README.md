@@ -1,4 +1,4 @@
-# POWER BI PROJECT ANALYSIS
+# DATA PROFESSIONAL SURVEY REPORT
 This is Data Professional survey took accros the world. Only 631 people took this survey and based on their answers I have analyzed the different trends and patterns.I Used POWER BI for analyzing and visualizing the data. I have attached the data i have used and the final report of the project. 
 ## TABLE OF CONTENTS
 * Project Scenerio
@@ -7,7 +7,7 @@ This is Data Professional survey took accros the world. Only 631 people took thi
 * key findings
 * Cleaning and Transforming
 * [Click here to see the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDY0MDUzNzgtYmY3ZC00MTAzLWI4YmEtYjJhZjE4YTlkMDYxIiwidCI6IjgwMjQzZDFlLWI1ZGEtNGNjZS1iNTYwLWYwZDcxYzBjZjljZSJ9)
-### PROJECT SCENERIO:
+### Project scenerio:
 This project provides a comprehensive analysis of the salaries of data professionals 
 across the globe, based on a survey of approximately 630 participants. The survey 
 covered a range of topics, including age, salary, profession, work-life balance, 
@@ -31,10 +31,10 @@ analysis and visualizations.
 * Communication: Able to present and communicate the data analysis and 
 visualizations in a clear and concise manner, using appropriate language, 
 format, and style.
-*** Tools used:
+### Tools used:
 * MS OFFICE/ EXCEL: VERSION 2016
 * Power BI JUNE 2023 VERSION.
-#### Key findings from the survey include:
+#### __Key findings from the survey include__:
 * Average Age: The survey provided insights into the average age of data 
 professionals is approximately 29.
 * Salary: The survey revealed the average salary of members by their 
