@@ -6,7 +6,7 @@ This is Data Professional survey took accros the world. Only 631 people took thi
 * Tools used
 * key findings
 * Cleaning and Transforming
-* Click here to see the Dashboard
+* [Click here to see the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDY0MDUzNzgtYmY3ZC00MTAzLWI4YmEtYjJhZjE4YTlkMDYxIiwidCI6IjgwMjQzZDFlLWI1ZGEtNGNjZS1iNTYwLWYwZDcxYzBjZjljZSJ9)
 ### PROJECT SCENERIO:
 This project provides a comprehensive analysis of the salaries of data professionals 
 across the globe, based on a survey of approximately 630 participants. The survey 
