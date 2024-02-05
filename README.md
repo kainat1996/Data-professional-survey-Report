@@ -46,7 +46,8 @@ professionals, providing a glimpse into their job satisfaction and lifestyle.
 * Country and Gender: The survey also highlighted the geographical 
 distribution of data professionals and examined gender representation in the 
 field.
-*** Transform the data
+
+### Transform the data
 This is raw data and needed to be transformed first, and for this I took some steps 
 for cleaning the data are as follows:
 * At first I have removed the unwanted columns (blanked columns).
